@@ -1,0 +1,8 @@
+[ÀúÊ·]
+1=#P0#=mb	#P1#=ExecCommand	#P2#=VBJSON/cJSONScript/ExecCommand	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20150117105711	#P7#=0	#P8#=113	.
+2=#P0#=mb	#P1#=Eval	#P2#=VBJSON/cJSONScript/Eval	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20150117105551	#P7#=0	#P8#=5	.
+3=#P0#=mb	#P1#=cmdRunJSC_Click	#P2#=VBJSON/frmTest/cmdRunJSC_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150117105453	#P7#=0	#P8#=2	.
+4=#P0#=mb	#P1#=cmdReadJSON_Click	#P2#=VBJSON/frmTest/cmdReadJSON_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150117105345	#P7#=0	#P8#=5	.
+5=#P0#=mb	#P1#=skipChar	#P2#=VBJSON/JSON/skipChar	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20150117105129	#P7#=0	#P8#=14	.
+6=#P0#=mb	#P1#=parse	#P2#=VBJSON/JSON/parse	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20150116233625	#P7#=0	#P8#=6	.
+7=#P0#=mb	#P1#=ClearParserErrors	#P2#=VBJSON/JSON/ClearParserErrors	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20150116233527	#P7#=0	#P8#=2	.
